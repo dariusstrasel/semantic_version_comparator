@@ -11,7 +11,7 @@ Lets say you have two releases:
 Easy enough; but how do I compare them?
 
 ```
-$ python main.py 1.0.0 1.1.0
+$ python semantic_comparator.py 1.0.0 1.1.0
 ```
 ```
 >>> '1.0.0' is less than '1.1.0'

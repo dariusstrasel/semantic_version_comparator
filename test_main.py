@@ -1,5 +1,5 @@
 import unittest
-from main import *
+from semantic_comparator import *
 
 
 class TestInputArguments(unittest.TestCase):
