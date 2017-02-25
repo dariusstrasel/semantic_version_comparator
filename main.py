@@ -19,6 +19,9 @@ Use Python 2.7 or 3+
 
 Using: http://semver.org/
 Cool Semantic Regex: \bv?(?:0|[1-9]\d*)\.(?:0|[1-9]\d*)\.(?:0|[1-9]\d*)(?:-[\da-z\-]+(?:\.[\da-z\-]+)*)?(?:\+[\da-z\-]+(?:\.[\da-z\-]+)*)?\b
+
+TODO: Add rc, alpha, beta, etc support for string comparison
+TODO: Add ~= test operator for pessimistic comparisons
 """
 import argparse
 import re
